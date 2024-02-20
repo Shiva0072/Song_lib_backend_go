@@ -1,0 +1,11 @@
+go mod init name1/name2
+
+install libraries:-
+go dotEvn : loading env variables
+go compileDaemon : auto-compiling
+gin : web framework
+gorm : orm
+
+commands to run :-
+CompileDaemon -command="./crud_cc"
+
